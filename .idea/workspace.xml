@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f31bb05c-12ff-4f0b-8e47-97d6e551854d" name="Changes" comment="Trabajando con Diccionarios" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2e8vvdTdkGuV4Lfe3G78ACa6DrL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.(Semana 15) Trabajando con Diccionarios.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f31bb05c-12ff-4f0b-8e47-97d6e551854d" name="Changes" comment="" />
+      <created>1711299252286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711299252286</updated>
+      <workItem from="1711299261868" duration="2577000" />
+    </task>
+    <task id="LOCAL-00001" summary="(Semana 15) Trabajando con Diccionarios">
+      <option name="closed" value="true" />
+      <created>1711300701311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711300701311</updated>
+    </task>
+    <task id="LOCAL-00002" summary="(Semana 15) Trabajando con Diccionarios">
+      <option name="closed" value="true" />
+      <created>1711300784111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711300784111</updated>
+    </task>
+    <task id="LOCAL-00003" summary="(Semana 15) Trabajando con Diccionarios">
+      <option name="closed" value="true" />
+      <created>1711300955877</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711300955877</updated>
+    </task>
+    <task id="LOCAL-00004" summary="(Semana 15) Trabajando con Diccionarios">
+      <option name="closed" value="true" />
+      <created>1711301560062</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711301560062</updated>
+    </task>
+    <task id="LOCAL-00005" summary="(Semana 15) Trabajando con Diccionarios">
+      <option name="closed" value="true" />
+      <created>1711301582693</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711301582693</updated>
+    </task>
+    <task id="LOCAL-00006" summary="(Semana 15) Trabajando con Diccionarios">
+      <option name="closed" value="true" />
+      <created>1711301616101</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711301616101</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Trabajando con Diccionarios">
+      <option name="closed" value="true" />
+      <created>1711301728892</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711301728892</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(Semana 15)" />
+    <MESSAGE value="(Semana 15) Trabajando con Diccionarios" />
+    <MESSAGE value="Trabajando con Diccionarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabajando con Diccionarios" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/_Semana_15__Trabajando_con_Diccionarios$_Semana_15__Trabajando_con_Diccionarios.coverage" NAME="(Semana 15) Trabajando con Diccionarios Coverage Results" MODIFIED="1711301639856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
